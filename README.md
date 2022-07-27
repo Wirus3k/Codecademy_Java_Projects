@@ -1,4 +1,4 @@
-# Codecademy_Learn_Java_Projects with Topics :open_book:
+# Codecademy_Learn_Java_Projects with Topics :open_book::computer::computer_mouse:
 
 ### :one: Planting a Tree<br />
 Introduce yourself to users and plant a tree for them!
